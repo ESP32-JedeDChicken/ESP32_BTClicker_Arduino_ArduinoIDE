@@ -11,7 +11,7 @@ This BT Clicker can be used for presentations.
 
   *The buttons were pull-up and feature debounce to deal w/ noise and unintentional presses.
 
-  *There's also an LED to indicate bluetooth connection.
+  *There's also an LED to indicate BT connection.
 
   *The prototype used a power bank w/ micro-USB cable as power source.
 

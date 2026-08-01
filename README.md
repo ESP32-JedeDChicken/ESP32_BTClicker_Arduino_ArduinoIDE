@@ -5,15 +5,15 @@ This project utilized the "ESP32-BLE-Keyboard" repository by T-vK- https://githu
 
 This BT Clicker can be used for presentations.
 
-    *Pressing the top and middle buttons shift the presentation to the previous and next slide, respectively (like left and right keyboard press).
+  *Pressing the top and middle buttons shift the presentation to the previous and next slide, respectively (like left and right keyboard press).
 
-    *The bottom button toggles the screen between full and windowed (like F11).
+ *The bottom button toggles the screen between full and windowed (like F11).
 
-    *The buttons were pull-up and feature debounce to deal with noise and unintentional presses.
+  *The buttons were pull-up and feature debounce to deal with noise and unintentional presses.
 
-    *There's also an LED to indicate bluetooth connection.
+  *There's also an LED to indicate bluetooth connection.
 
-    *The prototype used a power bank w/ micro-USB cable as power source.
+  *The prototype used a power bank w/ micro-USB cable as power source.
 
 
 This project utilized the ESP32-CAM CH340 HW818 development board w/ built-in OV2640 camera sensor, and was implemented using the Arduino Framework and Arduino IDE. The board used has similar pinout as AI Thinker ESP32-CAM and ESP32 WROVER.

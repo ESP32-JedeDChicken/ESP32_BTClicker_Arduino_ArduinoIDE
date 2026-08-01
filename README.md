@@ -9,7 +9,7 @@ This BT Clicker can be used for presentations.
 
  *The bottom button toggles the screen between full and windowed (like F11).
 
-  *The buttons were pull-up and feature debounce to deal with noise and unintentional presses.
+  *The buttons were pull-up and feature debounce to deal w/ noise and unintentional presses.
 
   *There's also an LED to indicate bluetooth connection.
 
